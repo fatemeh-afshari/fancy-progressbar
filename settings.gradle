@@ -1,0 +1,4 @@
+
+rootProject.name = "Fancy Progressbar"
+include ':app'
+include ':progressbar'
