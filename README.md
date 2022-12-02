@@ -1,7 +1,9 @@
 # Fancy Progressbar
 
-Android library providing a beautiful progressbar with colorful shadow, gradient and animation for Jetpack Compose.
+Android library providing a beautiful progressbar with colorful shadow, gradient and animation for
+Jetpack Compose.
 
+[![](https://jitpack.io/v/fatemeh-afshari/fancy-progressbar.svg)](https://jitpack.io/#fatemeh-afshari/fancy-progressbar)
 ![License MIT](https://img.shields.io/badge/MIT-9E9F9F?style=flat-square&label=License)
 ![Android minimuml version](https://img.shields.io/badge/21+-9E9F9F?style=flat-square&label=Minimum&logo=android)
 
@@ -15,7 +17,7 @@ repositories {
 }
 // App build.gradle
 dependencies {
-    implementation 'com.github.fatemeh-afshari:fancy-progressbar:latestVersion'
+   implementation 'com.github.fatemeh-afshari:fancy-progressbar:latestVersion'
 }
 ```
 
