@@ -3,7 +3,7 @@
 Android library providing a beautiful progressbar with colorful shadow, gradient and animation for
 Jetpack Compose.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/67331684/205397097-e26744c8-ce5d-4a72-8d0e-9b6014d1cef7.gif)
+![ezgif com-gif-maker width="301"](https://user-images.githubusercontent.com/67331684/205397097-e26744c8-ce5d-4a72-8d0e-9b6014d1cef7.gif)
 
 [![](https://jitpack.io/v/fatemeh-afshari/fancy-progressbar.svg)](https://jitpack.io/#fatemeh-afshari/fancy-progressbar)
 ![License MIT](https://img.shields.io/badge/MIT-9E9F9F?style=flat-square&label=License)
