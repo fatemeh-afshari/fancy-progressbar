@@ -9,7 +9,7 @@ Jetpack Compose.
 ![License MIT](https://img.shields.io/badge/MIT-9E9F9F?style=flat-square&label=License)
 ![Android minimuml version](https://img.shields.io/badge/21+-9E9F9F?style=flat-square&label=Minimum&logo=android)
 
-Download
+## Download
 --------
 Add in project build.gradle:
 
@@ -25,7 +25,6 @@ dependencies {
 
 ## Usage
 --------
-
 ```kotlin
 FancyProgressbar(
     initialValue = 0f, // 0 to maxValue
@@ -51,9 +50,9 @@ FancyProgressbar(
 **Note:** see [Example](app/src/main/java/com/fancy/progressbar/MainActivity.kt) for more detail.
 
 ## License
-
+----------
 ```
-   
+  
 The MIT License (MIT)
 
 Copyright (c) 2022 Fatemeh Afshari
@@ -77,4 +76,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```
-
